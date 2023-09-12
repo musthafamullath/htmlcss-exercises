@@ -1,0 +1,90 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Black Ops One', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.verdivmain{
+  width: 300px;
+  height: 120px;
+  display: flex;
+  margin-right: 50px;
+  
+}
+.hordivone{
+  width: 100px;
+  display: inline-block;
+  
+}
+.imgclass{
+  width: 80px;
+  height: 100px;
+  border-radius: 500%;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.hordivtwo{
+  font-size: 20px;
+  display: inline-block;
+  height: 120px;
+  width: 200px;
+  vertical-align: top;
+}
+#divp-one p{
+  color: black;
+  width: 200px;
+}
+.p p{
+  padding: 7px;
+  color: gray;
+}
+.div-second{
+  display: flex;
+  width: 400px;
+  height: 120px;
+  margin-left: 100px;
+}
+.dsh-one{
+  height: 120px;
+  width: 100px;
+}
+.img-scnd{
+  height: 100px;
+  width:100px;
+  border-radius: 500%;
+  display: inline-block;
+  object-fit: cover;
+}
+p{
+  color: black;
+}
+.dsh-two{
+  display: inline-block;
+  width: 120px;
+  font-size: 20px;
+}
+#frist{
+  color: black;
+}
+.para-scnd{
+  color: gray;
+  padding: 7px;
+}
+.dsh-three{
+  width: 100px;
+}
+.btn-scnd{
+  background-color: rgb(52, 52, 247);
+  color: white;
+  padding: 5px 18px;
+  border: none;
+  border-radius: 3px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 40px;
+}
+

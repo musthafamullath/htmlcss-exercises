@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 30px;
+  row-gap: 15px;
+}
+.divone{
+  width: 1fr;
+  background-color:blue;
+  color: white;
+}
+.divtwo{
+  width: 1fr;
+  background-color: red;
+  color: white;
+}
+.divthree{
+  width: 1fr;
+  background-color: green;
+  color: white;
+}
+.divfour{
+  width: 1fr;
+  background-color:black;
+  color: white;
+}

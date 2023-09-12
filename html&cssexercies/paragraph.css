@@ -1,0 +1,154 @@
+h1{
+  font-family: 'EB Garamond', serif;
+}
+h2{
+  font-family: 'EB Garamond', serif;
+}
+h4{
+  font-family: 'EB Garamond', serif;
+}
+h5{
+  font-family: 'EB Garamond', serif;
+}
+p{
+  font-family: 'EB Garamond', serif;
+}
+button{
+  font-family: 'EB Garamond', serif;
+}
+span{
+  font-family: 'EB Garamond', serif;
+}
+#EBGaramond{
+  margin-bottom: 100px;
+
+  margin-top: 50px;
+}
+.Years{
+  margin-bottom: 5px;
+}
+.sales{
+  font-style: italic;
+  color: red;
+  font-size: 22px;
+  margin-top: 0px;
+  margin-bottom: 100px;
+}
+#course{
+  font-weight: bold;
+  font-size: large;
+  margin-bottom: 0px;
+  font-size: 22px;
+}
+#pro{
+  color: grey;
+  margin-top: 0px;
+  font-size: 22px;
+}
+#learn{
+  width: 300px;
+  font-size: 22px;
+}
+#get{
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 0.4rem;
+  height: 37px;
+  width: 120px;
+  font-weight:bold;
+  font-size: 16px;
+  margin-bottom: 100px;
+}
+#shope{
+  font-family: 'EB Garamond', serif;
+}
+#apple{
+  font-size: 14px;
+  text-align: center;
+  width: 300px;
+}
+#more{
+  font-size: 14px;
+  text-align: center;
+  width: 300px;
+  color :rgb(15, 117, 234);
+  margin-bottom: 100px;
+}
+#new{
+  color: red;
+  width: 300px;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-left: 30px;
+}
+#mac{
+  text-align: center;
+  margin-left: 30px;
+  width: 290px;
+  margin-top: 4px;
+  margin-bottom: 0px;
+}
+#pros{
+  width: 400px;
+  margin-top: 3px;
+  margin-bottom: 0px;
+}
+#form{
+  text-align: center;
+  margin-left: 30px;
+  width: 290px;
+  font-size: small;
+  margin-top: 7px;
+  margin-bottom: 0px;
+}
+#Buy{
+  margin-left: 156px;
+  height: 27px;
+  width: 40px;
+  background-color: rgb(16, 113, 224);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  margin-bottom: 100px;
+  margin-top: 7px;
+}
+#num{
+  font-size: 30px;
+  margin-bottom: 2px;
+}
+#usd{
+  color: grey;
+  font-size: 17px;
+  
+}
+#today{
+  color: green;
+  margin-top: 0px;
+  font-size: 17px;
+  margin-bottom: 0px;
+}
+#hours{
+  color: gray;
+  margin-top: 2px;
+  margin-bottom: 100px;
+}
+#number{
+  color: red; 
+}
+#free{
+  margin-bottom: 0px;
+}
+#camp{
+  color: gray;
+}
+#easy{
+  margin-top: 3px;
+  width: 500px;
+}
+#here{
+  margin-bottom: 100px;
+}
+#ch{
+  color: rgb(0, 170, 255);
+}

@@ -1,0 +1,35 @@
+img{
+  margin-top: 220px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+}
+.tiger{
+  border-radius: 20px;
+  width: 300px;
+  transition: 1s;
+}
+.tiger:hover{
+  width: 30%;
+}
+.tiger1{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  transition: 1s;
+}
+.tiger1:hover{
+  width: 250px;
+  height: 250px;
+}
+.tiger2{
+  width: 210px;
+  height: 210px;
+  border-radius: 50%;
+  object-fit: cover;
+  transition: 1s;
+  ma
+}
+.tiger2:hover{
+  width: 250px;
+  height: 250px;
+}

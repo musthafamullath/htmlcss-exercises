@@ -1,0 +1,286 @@
+.uber{
+  background-color: black;
+  color: white;
+  padding-left: 43px;
+  padding-right: 43px;
+  padding-top: 18.5px;
+  padding-bottom: 18.5px;
+  font-size: 23px;
+  border: none;
+  margin-right: 300px;
+  cursor: pointer;
+  transition: background-color 1s,color 0.15s;
+}
+.uber:hover{
+  background-color: green;
+  color: black;
+}
+.uber:active{
+  background-color: blue;
+  color:red;
+}
+.amazon{
+  background-color: rgb(225, 216, 20);
+  color: black;
+  padding-left: 55px;
+  padding-right: 55px;
+  padding-top: 18.5px;
+  padding-bottom: 18.5px;
+  font-size: 25px;
+  border: none;
+  border-radius: 50px;
+  margin-right: 300px;
+  cursor: pointer;
+  transition: opacity 1s;
+}
+.amazon:hover{
+  opacity: 0.7;
+}
+.amazon:active{
+  opacity: 0.3;
+}
+.github{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  padding-left: 28px;
+  padding-right: 28px;
+  padding-top: 18.5px;
+  padding-bottom: 18.5px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 9px;
+  margin-right: 100px;
+  transition: background-color 1s,color 1s,opacity 1s;
+  cursor: pointer;
+  margin-bottom: 40px;
+}
+.github:hover{
+  background-color: white;
+  color: rgb(46, 164, 79);
+}
+.github:active{
+  opacity: 0.3;
+}
+.bootstrap{
+  background-color: rgb(121,82,179);
+  color: white;
+  border: none;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-right: 10px;
+  margin-left: 170px;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: box-shadow 0.30s,background-color 0.30s,color 0.30s,opacity 1s;
+  height: 64px;
+  width: 180px;
+}
+.bootstrap:hover{
+  box-shadow: 7px 7px 14px rgba(0,0,0,0.3);
+  font-size: x-large;
+  font-style: italic;
+}
+.bootstrap:active{
+  background-color: whitesmoke;
+  color:rgb(121,82,179);
+}
+.bootstrapdownload{
+  background-color: white;
+  color: rgb(108,117,125);
+  border-color: rgb(108,117,125);
+  border-radius: 10px;
+  height: 64px;
+  width: 180px;
+  font-size: 20px;
+  margin-right: 170px;
+  transition: box-shadow 0.15s,font-size 0.15s,font-style 0.15s,opacity 0.4,;
+  cursor: pointer;
+  transition: background-color 0.15s,color 0.15s,font-size 0.15s,font-style 0.15s;
+}
+.bootstrapdownload:hover{
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.3);
+  font-size: x-large;
+  font-style: italic;
+}
+.bootstrapdownload:active{
+  background-color:rgb(108,117,125);
+  color:white;
+  font-size: x-small;
+  font-style: inherit;
+}
+.linkedapp{
+  background-color:rgb(10,102,194);
+  padding-left: 43px;
+  padding-right: 43px;
+  padding-top: 19px;
+  padding-bottom: 19px;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  margin-right: 10px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.linkedapp:hover{
+  opacity: 0.7;
+}
+.linked{
+  background-color: white;
+  color: rgb(10,102,194);
+  border-color: rgb(10,102,194);
+  padding-left: 43px;
+  padding-right: 43px;
+  padding-top: 18.5px;
+  padding-bottom: 18.5px;
+  border-radius: 30px;
+  font-size: 22px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: opacity 1s;
+}
+.linked:hover{
+  opacity: 0.5;
+  background-color:rgb(181, 212, 242);
+  color: rgb(5, 127, 249);
+}
+#back{
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+  border-radius: 0.3rem;
+}
+.onee{
+  border: none;
+  background-color: white;
+  color: rgb(172, 12, 235);
+  font-size: large;
+}
+.twoo{
+  border: none;
+  background-color: white;
+  color: rgb(172, 12, 235);
+  font-size: large;
+}
+.threee{
+  border: none;
+  background-color: white;
+  color: rgb(172, 12, 235);
+  font-size: large;
+}
+.four{
+  border: none;
+  background-color: white;
+  color: rgb(172, 12, 235);
+  font-size: large;
+}
+.five{
+  border: none;
+  background-color: white;
+  color: rgb(172, 12, 235);
+  font-size: large;
+}
+#next{
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+  border-radius: 0.3rem;
+}
+#srt{
+  background-color: green;
+  color: white;
+  width: 130px;
+  height: 50px;
+  font-size: 26px;
+  cursor: pointer;
+  border: none;
+  transition: width 1s,height 1s;
+  
+}
+#srt:hover{
+  width: 200px;
+  height: 70px;
+}
+#sdw{
+  background-color: green;
+  color: white;
+  width: 155px;
+  height: 60px;
+  font-size: large;
+  cursor: pointer;
+  border: none;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.3);
+  transition: 0.5s;
+  font-size: 26px;
+}
+#sdw:active{
+  margin-top: 10px;
+  margin-left: 10px;
+  box-shadow: none;
+  transition: 0.5s;
+}
+.one{
+  background-color: green;
+  color: white;
+  padding-left: 55px;
+  padding-right: 55px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: large;
+  cursor: pointer;
+  border: none;
+  font-size: 26px;
+  transition: 0.25s;
+}
+.one:hover{
+  padding-left: 65px;
+  padding-right: 65px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#two{
+  background-color: green;
+  color: white;
+  padding-left: 55px;
+  padding-right: 55px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: large;
+  cursor: pointer;
+  border: none;
+  font-size: 26px;
+  transition: 0.25s;
+}
+#two:hover{
+  padding-left: 65px;
+  padding-right: 65px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#three{
+  background-color: green;
+  color: white;
+  padding-left: 55px;
+  padding-right: 55px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  margin-left: 10px;
+  font-size: large;
+  cursor: pointer;
+  border: none;
+  font-size: 26px;
+  transition: 0.25s;
+}
+#three:hover{
+  padding-left: 65px;
+  padding-right: 65px;
+  margin-left: 0px;
+  margin-right: 0px;
+}

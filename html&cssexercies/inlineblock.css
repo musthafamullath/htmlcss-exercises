@@ -1,0 +1,133 @@
+.name{
+  width: 200px;
+  height: 25px;
+  border-radius: 4px;
+  font-size: 18px;
+  display:block;
+}
+.email{
+  width: 200px;
+  height: 25px;
+  border-radius: 4px;
+  font-size: 18px;
+  margin-top: 6px;
+  margin-bottom: 100px;
+  display:block;
+}
+#thanks{
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+
+}
+.google-logo{
+  display: block;
+  width: 120px;
+  margin-left: 130px;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  object-fit: fill;
+  padding-top: 10px;
+}
+.texturl{
+  width: 400px;
+  height: 30px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.1);
+  border-color: rgba(0,0,0,0.05);
+  margin-top: 0px;
+  font-size: 13px;
+  padding-left: 10px;
+  margin-bottom: 100px;
+  display: block;
+}
+.fristname{
+  width: 150px;
+  height: 40px;
+  border-radius: 7px;
+  border-width: 1px;
+  border-color: gray;
+  padding-left: 12px;
+  font-size: 14px;
+  display: inline-block;
+}
+.lastname{
+  width: 150px;
+  height: 40px;
+  border-radius: 7px;
+  border-width: 1px;
+  border-color: gray;
+  padding-left: 12px;
+  font-size: 14px;
+  display: inline-block;
+}
+.emailtext{
+  width: 320px;
+  height: 40px;
+  border-radius: 7px;
+  border-width: 1px;
+  border-color: gray;
+  padding-left: 12px;
+  font-size: 14px;
+  display: block;
+  margin-top: 10px;
+}
+.signup{
+  margin-top: 10px;
+  width: 335px;
+  height: 50px;
+  background-color: rgb(21, 124, 242);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: large;
+  font-weight: bold;
+  margin-bottom: 100px;
+  cursor: pointer;
+}
+.ride{
+  font-family: 'EB Garamond', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+.pickup{
+  font-size: 17px;
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 120px;
+  background-color: rgba(230, 230, 230, 0.999);
+  color: black;
+  border: none;
+  display: block;
+  margin-bottom: 10px;
+}
+.Destination{
+  font-size: 17px;
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 120px;
+  background-color: rgba(230, 230, 230, 0.999);
+  color: black;
+  border: none;
+  display: block;
+  margin-bottom: 25px;
+}
+.request{
+  background-color: black;
+  color: white;
+  margin-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.schadule{
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  margin-bottom: 100px;
+}
